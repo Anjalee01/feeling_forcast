@@ -1,11 +1,10 @@
 import streamlit as st
 from groq import Groq
 import os
-from google.colab import userdata
 import re
 
-# Get API key from Google Colab Secrets
-api_key = userdata.get("GROQ_API_KEY")
+# Get API key from Streamlit Secrets
+api_key = st.secrets["GROQ_API_KEY"]
 client = Groq(api_key=api_key)
 
 # Title and intro
