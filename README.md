@@ -68,10 +68,6 @@ GROQ_API_KEY = "your_api_key_here"
 └── README.md           # You are here!
 ```
 
-## 🌍 Deployed Version
-
-You can try the live app here: [[https://your-deployment-link.streamlit.app](https://your-deployment-link.streamlit.app)](https://feelingforcast-tmtd5b4sqh7r4b2taipuin.streamlit.app/)
-
 
 ## 👥 Team
 
