@@ -70,22 +70,14 @@ GROQ_API_KEY = "your_api_key_here"
 
 ## 🌍 Deployed Version
 
-You can try the live app here: [https://your-deployment-link.streamlit.app](https://your-deployment-link.streamlit.app)
+You can try the live app here: [https://your-deployment-link.streamlit.app]([https://your-deployment-link.streamlit.app](https://feelingforcast-tmtd5b4sqh7r4b2taipuin.streamlit.app/))
 
-## 🏆 For the Hackathon
-
-This project was created for **AI vs H.I. — A Global Hackathon by CS Girlies** under the "✨ Make it YOU" track.
-
-> Our AI doesn’t just analyze — it empathizes.
 
 ## 👥 Team
 
-- Solo builder: *[Your Name]*
+- Solo builder: *Anjalee*
 
 ## 📫 Contact
 
-For questions or collaboration: *your-email@example.com*
+For questions or collaboration: *anjaleeramwani01@gmail.com*
 
----
-
-🩷 Let’s build emotionally intelligent tech, together.
